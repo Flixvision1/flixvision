@@ -1,2 +1,0 @@
-# flixvision
-Flix vision 
